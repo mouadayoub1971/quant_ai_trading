@@ -1,0 +1,6 @@
+{
+  "hooks": {
+    "write": "git add \"$FILE_PATH\" && git commit -m \"Update $FILE_PATH\" && git push",
+    "edit": "git add \"$FILE_PATH\" && git commit -m \"Edit $FILE_PATH\" && git push"
+  }
+}
