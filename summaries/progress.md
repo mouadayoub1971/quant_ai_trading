@@ -3,8 +3,8 @@
 ## Book: How to Day Trade for a Living
 **Author**: Andrew Aziz
 **Total Parts**: 66
-**Completed**: 9
-**Progress**: 13.6%
+**Completed**: 10
+**Progress**: 15.2%
 
 ---
 
@@ -46,10 +46,14 @@
    - Key Focus: Unlimited short loss potential, retail's "tremendous advantage" via selectivity, guerrilla warfare analogy, 100-share starting size
    - Main Lessons: Broker can sue for short losses beyond account, institutions compelled to trade (retail can wait), hit-and-run tactics, one-penny losses possible
 
+10. ✓ **Part 10**: Chapter 2 - HFT Reality & Stocks in Play Concept (Completed: 2025-11-09)
+   - Key Focus: Beating algorithms despite difficulty, Lehman 2008 algo failure, Stocks in Play definition, catalyst types
+   - Main Lessons: Programmers can't day trade, algos fight each other, "no excuses" mentality, trade 2% with catalysts (ignore 98%)
+
 ---
 
 ## Next Up
-Part 10 - Chapter 2: How Day Trading Works (continued)
+Part 11 - Chapter 2: How Day Trading Works (continued)
 
 ---
 
